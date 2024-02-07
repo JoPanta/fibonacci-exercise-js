@@ -20,4 +20,6 @@ function fibonacciGenerator (n) {
     console.log(output)
 
 }
+
+
 fibonacciGenerator(10);
